@@ -40,6 +40,19 @@ A user study compared:
 - **Environment-aware NPC dialogue**
 - **Baseline LLM dialogue using only a supporting prompt**
 
+### 🔎 Results
+
+To support transparency and reproducibility, the study results are publicly available:
+
+- **Results website:**  
+ [Website](https://docs.google.com/spreadsheets/u/1/d/e/2PACX-1vTRuiZxseOBfr1-7qoWGP9ftvr8jT06QxL71evHmE-31-fInsTwiH4dUGlsD1WbNg/pubhtml)
+
+- **Anonymized dataset (CSV):**  
+  [CSV](https://docs.google.com/spreadsheets/d/e/2PACX-1vTRuiZxseOBfr1-7qoWGP9ftvr8jT06QxL71evHmE-31-fInsTwiH4dUGlsD1WbNg/pub?gid=1340224966&single=true&output=csv)
+
+The dataset includes aggregated user preferences and Likert-scale ratings used in the analysis presented in the paper.
+
+
 Key findings:
 - Participants consistently preferred the environment-aware NPC responses
 - Context-aware dialogue was rated higher for immersion and relevance
